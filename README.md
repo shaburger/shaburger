@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/shaburger -->
 
-<h1 align="center">Jason Ngo</h1>
+
 <p align="center">
   Software Developer • Full-Stack • Cybersecurity-minded
 </p>
