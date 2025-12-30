@@ -4,9 +4,7 @@
   Software Developer • Full-Stack
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaburger&style=flat" />
-</p>
+
 
 ---
 
