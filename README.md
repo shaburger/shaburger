@@ -1,8 +1,7 @@
 <!-- Profile README for github.com/shaburger -->
 
-
 <p align="center">
-  Software Developer • Full-Stack • Cybersecurity-minded
+  Software Developer • Full-Stack
 </p>
 
 <p align="center">
@@ -41,14 +40,15 @@
 
 ---
 
-## 🔍 Focus
+## 🎯 Focus
 ![Full Stack](https://img.shields.io/badge/Full-Stack%20Development-111827?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E293B?style=for-the-badge)
+![Web Apps](https://img.shields.io/badge/Web%20Applications-2563EB?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game%20Development-7C3AED?style=for-the-badge)
 
 ---
 
 ## 🚀 What I’m Building
 - Discord bots & minigames (Broken Ice Machine)
 - Web-based game systems
-- Scalable backend services
+
 
